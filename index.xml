@@ -3,68 +3,68 @@
     <channel>
       <title>Quartz 4</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Últimas 10 notas on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome to Quartz</title>
-    <link>https://quartz.jzhao.xyz/modelo</link>
-    <guid>https://quartz.jzhao.xyz/modelo</guid>
-    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
-    <pubDate>Wed, 26 Mar 2025 12:44:51 GMT</pubDate>
+    <title>Cadastro de Fornecedor</title>
+    <link>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor</link>
+    <guid>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor</guid>
+    <description>Área do SIAT destinada para cadastro de pessoas físicas e jurídicas que estabeleceram alguma relação com a Transdellas.</description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item><item>
-    <title>Nota Fiscal</title>
-    <link>https://quartz.jzhao.xyz/Nota-Fiscal</link>
-    <guid>https://quartz.jzhao.xyz/Nota-Fiscal</guid>
-    <description>As notas fiscais correspondem ao documento dos produtos adquiridos e serviços realizados em oficinas de terceiros.</description>
-    <pubDate>Thu, 13 Mar 2025 15:02:59 GMT</pubDate>
-  </item><item>
-    <title>Solicitação de Pagamento</title>
-    <link>https://quartz.jzhao.xyz/Solicita%C3%A7%C3%A3o-de-Pagamento</link>
-    <guid>https://quartz.jzhao.xyz/Solicita%C3%A7%C3%A3o-de-Pagamento</guid>
-    <description>É realizado via WhatsApp quando há a necessidade de fazer um pagamento antecipado a um motorista ou fornecedor diretamente.</description>
-    <pubDate>Thu, 13 Mar 2025 15:00:35 GMT</pubDate>
-  </item><item>
-    <title>Lançamento de NF de Produto</title>
-    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Produto</link>
-    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Produto</guid>
-    <description>Passo a passo Salvar arquivos Selecionar empresa Abrir novo lançamento Importar XML Vincular ou cadastrar itens se solicitado Inserir informações do veículo Inserir informações do pagamento “MANU” para faturamentos e “AVIS” para pagamentos à vista.</description>
-    <pubDate>Wed, 19 Feb 2025 13:11:34 GMT</pubDate>
-  </item><item>
-    <title>E-mail</title>
-    <link>https://quartz.jzhao.xyz/E-mail</link>
-    <guid>https://quartz.jzhao.xyz/E-mail</guid>
-    <description>O e-mail oficina@transmoycana.com.br é um dos principais canais de comunicação do setor de manutenção.</description>
-    <pubDate>Thu, 04 Apr 2024 17:07:11 GMT</pubDate>
-  </item><item>
-    <title>Token</title>
-    <link>https://quartz.jzhao.xyz/Token</link>
-    <guid>https://quartz.jzhao.xyz/Token</guid>
+    <title>Cadastro de Produtos e Serviços</title>
+    <link>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os</link>
+    <guid>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os</guid>
     <description></description>
-    <pubDate>Thu, 04 Apr 2024 17:06:58 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item><item>
-    <title>Planilha de Controle de NF</title>
-    <link>https://quartz.jzhao.xyz/Planilha-de-Controle-de-NF</link>
-    <guid>https://quartz.jzhao.xyz/Planilha-de-Controle-de-NF</guid>
-    <description>A Planilha de Controle de Nota Fiscal é uma ferramenta útil para controlar quais notas já foram enviadas para o Contas a Pagar e se seu lançamento bate com o que está descrito no Resultado e Suas Origens.</description>
-    <pubDate>Tue, 02 Apr 2024 20:29:26 GMT</pubDate>
+    <title>Consulta de Veículos</title>
+    <link>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos</link>
+    <guid>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos</guid>
+    <description></description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item><item>
-    <title>Vínculo de Produtos</title>
-    <link>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos</link>
-    <guid>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos</guid>
-    <description>É uma tarefa do Lançamento de NF de Produto.</description>
-    <pubDate>Thu, 29 Feb 2024 13:38:33 GMT</pubDate>
+    <title>Consulta de Viagem</title>
+    <link>https://quartz.jzhao.xyz/Consulta-de-Viagem</link>
+    <guid>https://quartz.jzhao.xyz/Consulta-de-Viagem</guid>
+    <description></description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
+  </item><item>
+    <title>Contas a Pagar</title>
+    <link>https://quartz.jzhao.xyz/Contas-a-Pagar</link>
+    <guid>https://quartz.jzhao.xyz/Contas-a-Pagar</guid>
+    <description></description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item><item>
     <title>Código Contábil</title>
     <link>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil</link>
     <guid>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil</guid>
     <description>SIAT 411010001 411010002 411010004 411010005 411010011 412010035.</description>
-    <pubDate>Fri, 09 Feb 2024 19:50:20 GMT</pubDate>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item><item>
-    <title>Servidor</title>
-    <link>https://quartz.jzhao.xyz/Servidor</link>
-    <guid>https://quartz.jzhao.xyz/Servidor</guid>
-    <description>SIEG Planilha de Controle de NF Planilha de Troca de Óleo Planilha de Troca de Pneu.</description>
-    <pubDate>Mon, 29 Jan 2024 12:36:19 GMT</pubDate>
+    <title>E-mail</title>
+    <link>https://quartz.jzhao.xyz/E-mail</link>
+    <guid>https://quartz.jzhao.xyz/E-mail</guid>
+    <description>O e-mail oficina@transmoycana.com.br é um dos principais canais de comunicação do setor de manutenção.</description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
+  </item><item>
+    <title>Lançamento de NF de Produto</title>
+    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Produto</link>
+    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Produto</guid>
+    <description>Passo a passo Salvar arquivos Selecionar empresa Abrir novo lançamento Importar XML Vincular ou cadastrar itens se solicitado Inserir informações do veículo Inserir informações do pagamento “MANU” para faturamentos e “AVIS” para pagamentos à vista.</description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
+  </item><item>
+    <title>Lançamento de NF de Serviço</title>
+    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o</link>
+    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o</guid>
+    <description>Diferentemente do Lançamento de NF de Produto, o lançamento de NF de serviço exige algumas complicações a mais.</description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
+  </item><item>
+    <title>Nota Fiscal</title>
+    <link>https://quartz.jzhao.xyz/Nota-Fiscal</link>
+    <guid>https://quartz.jzhao.xyz/Nota-Fiscal</guid>
+    <description>As notas fiscais correspondem ao documento dos produtos adquiridos e serviços realizados em oficinas de terceiros.</description>
+    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item>
     </channel>
   </rss>
