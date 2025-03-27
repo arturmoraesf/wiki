@@ -6,6 +6,12 @@
       <description>Últimas 10 notas on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Siat</title>
+    <link>https://quartz.jzhao.xyz/Siat</link>
+    <guid>https://quartz.jzhao.xyz/Siat</guid>
+    <description>É o principal software, utilizado por praticamente todos os setores.</description>
+    <pubDate>Thu, 27 Mar 2025 11:33:18 GMT</pubDate>
+  </item><item>
     <title>Cadastro de Fornecedor</title>
     <link>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor</link>
     <guid>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o</link>
     <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o</guid>
     <description>Diferentemente do Lançamento de NF de Produto, o lançamento de NF de serviço exige algumas complicações a mais.</description>
-    <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
-  </item><item>
-    <title>Nota Fiscal</title>
-    <link>https://quartz.jzhao.xyz/Nota-Fiscal</link>
-    <guid>https://quartz.jzhao.xyz/Nota-Fiscal</guid>
-    <description>As notas fiscais correspondem ao documento dos produtos adquiridos e serviços realizados em oficinas de terceiros.</description>
     <pubDate>Wed, 26 Mar 2025 16:48:20 GMT</pubDate>
   </item>
     </channel>
