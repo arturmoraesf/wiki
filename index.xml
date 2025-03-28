@@ -6,11 +6,47 @@
       <description>Últimas 10 notas on Wiki Manutenção</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Lançamento de NF de Serviço 📃👷</title>
+    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o-%F0%9F%93%83%F0%9F%91%B7</link>
+    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o-%F0%9F%93%83%F0%9F%91%B7</guid>
+    <description>Diferentemente do Lançamento de NF de Produto 📃🔧, o lançamento de NF de serviço exige algumas complicações a mais.</description>
+    <pubDate>Fri, 28 Mar 2025 14:39:19 GMT</pubDate>
+  </item><item>
+    <title>Vínculo de Produtos 🔗🧰</title>
+    <link>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos-%F0%9F%94%97%F0%9F%A7%B0</link>
+    <guid>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos-%F0%9F%94%97%F0%9F%A7%B0</guid>
+    <description>É uma tarefa do Lançamento de NF de Produto 📃🔧.</description>
+    <pubDate>Fri, 28 Mar 2025 14:38:21 GMT</pubDate>
+  </item><item>
+    <title>Nota Fiscal 📃</title>
+    <link>https://quartz.jzhao.xyz/Nota-Fiscal-%F0%9F%93%83</link>
+    <guid>https://quartz.jzhao.xyz/Nota-Fiscal-%F0%9F%93%83</guid>
+    <description>As notas fiscais correspondem ao documento dos produtos adquiridos e serviços realizados em oficinas de terceiros.</description>
+    <pubDate>Fri, 28 Mar 2025 14:37:08 GMT</pubDate>
+  </item><item>
+    <title>Tipo Manutenção 🔢👷</title>
+    <link>https://quartz.jzhao.xyz/Tipo-Manuten%C3%A7%C3%A3o-%F0%9F%94%A2%F0%9F%91%B7</link>
+    <guid>https://quartz.jzhao.xyz/Tipo-Manuten%C3%A7%C3%A3o-%F0%9F%94%A2%F0%9F%91%B7</guid>
+    <description></description>
+    <pubDate>Fri, 28 Mar 2025 14:32:44 GMT</pubDate>
+  </item><item>
+    <title>E-mail 📧</title>
+    <link>https://quartz.jzhao.xyz/E-mail-%F0%9F%93%A7</link>
+    <guid>https://quartz.jzhao.xyz/E-mail-%F0%9F%93%A7</guid>
+    <description>O e-mail oficina@transmoycana.com.br é um dos principais canais de comunicação do setor de manutenção.</description>
+    <pubDate>Fri, 28 Mar 2025 14:32:15 GMT</pubDate>
+  </item><item>
+    <title>Consulta de Veículos 🔎🚚</title>
+    <link>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</link>
+    <guid>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</guid>
+    <description>Para consultar um veículo no Siat, acessa-se a tela “Consulta veículo” em Frota ➡️ Cadastro ➡️ Veículo e, por fim, digita-se a placa desejada e clica-se no ícone de lupa no canto superior direito da tela.</description>
+    <pubDate>Fri, 28 Mar 2025 14:31:29 GMT</pubDate>
+  </item><item>
     <title>Resultado e Suas Origens 📊📄</title>
     <link>https://quartz.jzhao.xyz/Resultado-e-Suas-Origens-%F0%9F%93%8A%F0%9F%93%84</link>
     <guid>https://quartz.jzhao.xyz/Resultado-e-Suas-Origens-%F0%9F%93%8A%F0%9F%93%84</guid>
     <description>O Resultado e Suas Origens é uma tela do setor Financeiro do Siat 🚚🌐.</description>
-    <pubDate>Fri, 28 Mar 2025 13:01:38 GMT</pubDate>
+    <pubDate>Fri, 28 Mar 2025 14:27:51 GMT</pubDate>
   </item><item>
     <title>Solicitação de Pagamento 👉💵</title>
     <link>https://quartz.jzhao.xyz/Solicita%C3%A7%C3%A3o-de-Pagamento-%F0%9F%91%89%F0%9F%92%B5</link>
@@ -29,42 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Planilha-de-Troca-de-Pneu-%F0%9F%94%81%F0%9F%9A%9A</guid>
     <description>A planilha “TROCA DE PNEU FROTA.xlsx” é um documento localizado no Servidor 🖥️🌐 que visa controlar os pneus que estão tendo seu uso destinado aos veículos da frota.</description>
     <pubDate>Fri, 28 Mar 2025 12:10:18 GMT</pubDate>
-  </item><item>
-    <title>Planilha de Troca de Óleo 🔁🛢️</title>
-    <link>https://quartz.jzhao.xyz/Planilha-de-Troca-de-%C3%93leo-%F0%9F%94%81%F0%9F%9B%A2%EF%B8%8F</link>
-    <guid>https://quartz.jzhao.xyz/Planilha-de-Troca-de-%C3%93leo-%F0%9F%94%81%F0%9F%9B%A2%EF%B8%8F</guid>
-    <description>A planilha “TROCA DE ÓLEO FROTA.xlsx” é um documento localizado no Servidor 🖥️🌐 utilizado para controlar as trocas de óleo de motor, caixa, diferencial, filtro de ar e, também, de casquilho dos veículos da frota.</description>
-    <pubDate>Fri, 28 Mar 2025 12:08:15 GMT</pubDate>
-  </item><item>
-    <title>Consulta de Veículos 🔎🚚</title>
-    <link>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</link>
-    <guid>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</guid>
-    <description>Para consultar um veículo no Siat, acessa-se a tela “Consulta veículo” em Frota ➡️ Cadastro ➡️ Veículo e, por fim, digita-se a placa desejada e clica-se no ícone de lupa no canto superior direito da tela.</description>
-    <pubDate>Thu, 27 Mar 2025 18:01:53 GMT</pubDate>
-  </item><item>
-    <title>Token 🔑🔡</title>
-    <link>https://quartz.jzhao.xyz/Token-%F0%9F%94%91%F0%9F%94%A1</link>
-    <guid>https://quartz.jzhao.xyz/Token-%F0%9F%94%91%F0%9F%94%A1</guid>
-    <description>O token é um código ou uma “senha” enviada por alguns fornecedores para Retirada de Mercadoria 🤲🔩. Normalmente chega por E-mail 📧, SMS ou WhatsApp.</description>
-    <pubDate>Thu, 27 Mar 2025 17:58:33 GMT</pubDate>
-  </item><item>
-    <title>Vínculo de Produtos 🔗🧰</title>
-    <link>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos-%F0%9F%94%97%F0%9F%A7%B0</link>
-    <guid>https://quartz.jzhao.xyz/V%C3%ADnculo-de-Produtos-%F0%9F%94%97%F0%9F%A7%B0</guid>
-    <description>É uma tarefa do Lançamento de NF de Produto 📃🔧.</description>
-    <pubDate>Thu, 27 Mar 2025 17:57:49 GMT</pubDate>
-  </item><item>
-    <title>Siat 🚚🌐</title>
-    <link>https://quartz.jzhao.xyz/Siat-%F0%9F%9A%9A%F0%9F%8C%90</link>
-    <guid>https://quartz.jzhao.xyz/Siat-%F0%9F%9A%9A%F0%9F%8C%90</guid>
-    <description>É o principal software, utilizado por praticamente todos os setores.</description>
-    <pubDate>Thu, 27 Mar 2025 17:55:09 GMT</pubDate>
-  </item><item>
-    <title>Código Contábil 🔢</title>
-    <link>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil-%F0%9F%94%A2</link>
-    <guid>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil-%F0%9F%94%A2</guid>
-    <description>O código contábil é uma forma de especificar categorias de produtos e serviços no Siat 🚚🌐.</description>
-    <pubDate>Thu, 27 Mar 2025 17:50:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
