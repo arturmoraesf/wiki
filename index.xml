@@ -6,65 +6,65 @@
       <description>Últimas 10 notas on Wiki Manutenção</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>SCP 💵📄</title>
-    <link>https://quartz.jzhao.xyz/SCP-%F0%9F%92%B5%F0%9F%93%84</link>
-    <guid>https://quartz.jzhao.xyz/SCP-%F0%9F%92%B5%F0%9F%93%84</guid>
-    <description>Ao solicitar um pagamento cuja nota fiscal ainda não foi emitida, é necessário criar um SCP.</description>
-    <pubDate>Tue, 17 Jun 2025 13:12:05 GMT</pubDate>
+    <title>Baixando NFS-e ⬇📃</title>
+    <link>https://quartz.jzhao.xyz/Baixando-NFS-e-%E2%AC%87%F0%9F%93%83</link>
+    <guid>https://quartz.jzhao.xyz/Baixando-NFS-e-%E2%AC%87%F0%9F%93%83</guid>
+    <description>Ao realizar lançamento de nota fiscal de serviço, precisa-se importar o PDF.</description>
+    <pubDate>Tue, 02 Sep 2025 15:21:25 GMT</pubDate>
   </item><item>
-    <title>Contas a Pagar 💸</title>
-    <link>https://quartz.jzhao.xyz/Contas-a-Pagar-%F0%9F%92%B8</link>
-    <guid>https://quartz.jzhao.xyz/Contas-a-Pagar-%F0%9F%92%B8</guid>
-    <description>Área do SIAT em que registram-se todas as contas e/ou boletos que serão pagos. Pode ser acessada através do passo a passo abaixo.</description>
-    <pubDate>Mon, 16 Jun 2025 13:51:02 GMT</pubDate>
-  </item><item>
-    <title>Lançamento sem Nota Fiscal ❌📃</title>
-    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-sem-Nota-Fiscal-%E2%9D%8C%F0%9F%93%83</link>
-    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-sem-Nota-Fiscal-%E2%9D%8C%F0%9F%93%83</guid>
-    <description>Quando, por quaisquer motivos, o fornecedor ou prestador de serviços não emite nota fiscal, precisa-se registrar o pagamento no SIAT na área Contas a Pagar.</description>
-    <pubDate>Mon, 16 Jun 2025 13:51:02 GMT</pubDate>
-  </item><item>
-    <title>Wiki da Manutenção 🌐🛠</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>Esta wiki tem o objetivo de documentar todos os processos da manutenção da Transdellas que conversam com o setor administrativo.</description>
-    <pubDate>Mon, 16 Jun 2025 13:51:02 GMT</pubDate>
-  </item><item>
-    <title>Cadastro de Produtos e Serviços ✨🔧</title>
-    <link>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os-%E2%9C%A8%F0%9F%94%A7</link>
-    <guid>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os-%E2%9C%A8%F0%9F%94%A7</guid>
-    <description>Cadastrar produtos e serviços no SIAT é importante para manter registrar o que está sendo trocado ou executado em uma nota fiscal ou ordem de serviço.</description>
-    <pubDate>Mon, 31 Mar 2025 18:03:28 GMT</pubDate>
+    <title>Lançamento de NF de Serviço 📃👷</title>
+    <link>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o-%F0%9F%93%83%F0%9F%91%B7</link>
+    <guid>https://quartz.jzhao.xyz/Lan%C3%A7amento-de-NF-de-Servi%C3%A7o-%F0%9F%93%83%F0%9F%91%B7</guid>
+    <description>Diferentemente do lançamento de nota fiscal de produto, o lançamento de NF de serviço exige algumas complicações a mais.</description>
+    <pubDate>Tue, 02 Sep 2025 15:21:25 GMT</pubDate>
   </item><item>
     <title>Cadastro de Fornecedor ✨🏦</title>
     <link>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor-%E2%9C%A8%F0%9F%8F%A6</link>
     <guid>https://quartz.jzhao.xyz/Cadastro-de-Fornecedor-%E2%9C%A8%F0%9F%8F%A6</guid>
     <description>Área do SIAT destinada para cadastro de pessoas físicas e jurídicas que estabeleceram alguma relação com a Transdellas.</description>
-    <pubDate>Fri, 28 Mar 2025 19:22:40 GMT</pubDate>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
+  </item><item>
+    <title>Cadastro de Produtos e Serviços ✨🔧</title>
+    <link>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os-%E2%9C%A8%F0%9F%94%A7</link>
+    <guid>https://quartz.jzhao.xyz/Cadastro-de-Produtos-e-Servi%C3%A7os-%E2%9C%A8%F0%9F%94%A7</guid>
+    <description>Cadastrar produtos e serviços no SIAT é importante para manter registrar o que está sendo trocado ou executado em uma nota fiscal ou ordem de serviço.</description>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
   </item><item>
     <title>Consulta de Veículos 🔎🚚</title>
     <link>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</link>
     <guid>https://quartz.jzhao.xyz/Consulta-de-Ve%C3%ADculos-%F0%9F%94%8E%F0%9F%9A%9A</guid>
     <description>Para consultar um veículo no SIAT, acessa-se a tela “Consulta veículo” em Frota ➡️ Cadastro ➡️ Veículo e, por fim, digita-se a placa desejada e clica-se no ícone de lupa no canto superior direito da tela.</description>
-    <pubDate>Fri, 28 Mar 2025 19:22:40 GMT</pubDate>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
   </item><item>
     <title>Consulta de Viagem 🔎🗺️</title>
     <link>https://quartz.jzhao.xyz/Consulta-de-Viagem-%F0%9F%94%8E%F0%9F%97%BA%EF%B8%8F</link>
     <guid>https://quartz.jzhao.xyz/Consulta-de-Viagem-%F0%9F%94%8E%F0%9F%97%BA%EF%B8%8F</guid>
     <description>A consulta de viagens é feita na tela do SIAT localizada em Transporte➡Viagem➡Viagem (Retorno). Instruções da tela “Consulta - Viagem”.</description>
-    <pubDate>Fri, 28 Mar 2025 19:22:40 GMT</pubDate>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
+  </item><item>
+    <title>Contas a Pagar 💸</title>
+    <link>https://quartz.jzhao.xyz/Contas-a-Pagar-%F0%9F%92%B8</link>
+    <guid>https://quartz.jzhao.xyz/Contas-a-Pagar-%F0%9F%92%B8</guid>
+    <description>Área do SIAT em que registram-se todas as contas e/ou boletos que serão pagos. Pode ser acessada através do passo a passo abaixo.</description>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
   </item><item>
     <title>Código Contábil 🔢</title>
     <link>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil-%F0%9F%94%A2</link>
     <guid>https://quartz.jzhao.xyz/C%C3%B3digo-Cont%C3%A1bil-%F0%9F%94%A2</guid>
     <description>O código contábil é uma forma de especificar categorias de produtos e serviços no SIAT.</description>
-    <pubDate>Fri, 28 Mar 2025 19:22:40 GMT</pubDate>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
   </item><item>
     <title>E-mail 📧</title>
     <link>https://quartz.jzhao.xyz/E-mail-%F0%9F%93%A7</link>
     <guid>https://quartz.jzhao.xyz/E-mail-%F0%9F%93%A7</guid>
     <description>O e-mail oficina@transmoycana.com.br é um dos principais canais de comunicação do setor de manutenção.</description>
-    <pubDate>Fri, 28 Mar 2025 19:22:40 GMT</pubDate>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
+  </item><item>
+    <title>Estoque 📦</title>
+    <link>https://quartz.jzhao.xyz/Estoque-%F0%9F%93%A6</link>
+    <guid>https://quartz.jzhao.xyz/Estoque-%F0%9F%93%A6</guid>
+    <description>O controle de estoque ocorre dentro do SIAT e pode ser acessado em Frota ➡ Estoque ➡ Inventário. Tela de inventário de estoque.</description>
+    <pubDate>Tue, 17 Jun 2025 13:38:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
